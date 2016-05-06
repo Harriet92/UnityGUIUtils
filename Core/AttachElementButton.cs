@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-// just a small change to see how commits work
+// just a small change to see how commits work ## and a second one
 namespace EmiGd.GUI.Core
 {
     [RequireComponent(typeof(Button))]
